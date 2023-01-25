@@ -3,8 +3,8 @@
 My name is Robin Candau, I'm 26.  
   
 I’m a french Linux system engineer passionate by skate, music, (craft) beers and, obviously, Linux!  
-I'm an [Arch Linux](https://archlinux.org/) Trusted User/Package Maintainer, a [Crystal Linux](https://getcryst.al/) Core Team member and a general Open Source contributor.  
   
+I'm an [Arch Linux](https://archlinux.org/) Trusted User/Package Maintainer, a [Crystal Linux](https://getcryst.al/) Core Team member and a general Open Source contributor.  
 I also have a [personal blog](https://rc-linux.com) on which I write articles *from time to time* (meaning once every 6 months :smile:)!  
    
 You can reach me at `robincandau@protonmail.com`, `@Antiz96` on Twitter or `Antiz#4953` on Discord.  
