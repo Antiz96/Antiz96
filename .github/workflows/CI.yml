@@ -11,6 +11,9 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v4
 
+      - name: Run actionlint
+        run: actionlint .github/workflows/CI.yml
+
       - name: Run codespell
         run: codespell --enable-colors
 

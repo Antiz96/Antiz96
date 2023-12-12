@@ -1,6 +1,6 @@
 # Hey
 
-My name is Robin Candau.   
+My name is Robin Candau.  
 I’m a french Linux system & DevOps engineer passionate by skate, music, (craft) beer and, obviously, Linux!
 
 I'm an [Arch Linux](https://archlinux.org/) Package Maintainer, a [Crystal Linux](https://getcryst.al/) Core Team member and a general open source enthusiast.  
