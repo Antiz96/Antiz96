@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run actionlint
-        run: actionlint .github/workflows/CI.yml -ignore 'label "CI-CD" is unknown'
+        run: actionlint -ignore 'label "CI-CD" is unknown' .github/workflows/CI.yml
 
       - name: Run codespell
         run: codespell --enable-colors
