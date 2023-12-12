@@ -19,6 +19,3 @@ jobs:
 
       - name: Run mdl
         run: mdl --style .github/workflows/mdl_style.rb .
-
-      - name: test
-        run: echo "Checking commit '${{ github.event.head_commit.message }}'"
