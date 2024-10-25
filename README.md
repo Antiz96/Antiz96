@@ -1,6 +1,6 @@
 # Hey!
 
-I'm Robin Candau, a french Linux system & DevOps engineer passionate by skate, music, (craft) beer and, obviously, Linux!
+I'm Robin Candau, a french Linux system & DevOps engineer passionate about skateboarding, music, cycling and, obviously, Linux!
 
 I'm a general open source enthusiast, maintaining packages for [Arch Linux](https://archlinux.org/packages/?sort=&q=&maintainer=Antiz) as well as a some packages for [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Robin+Candau).
 
