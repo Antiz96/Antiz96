@@ -1,4 +1,4 @@
-# Hey!
+# Hey! :wave:
 
 I'm Robin Candau, a french Linux system & DevOps engineer passionate about skateboarding, music, cycling and, obviously, Linux!
 
