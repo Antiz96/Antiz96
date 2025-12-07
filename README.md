@@ -6,4 +6,4 @@ I'm an open source enthusiast, maintaining packages for [Arch Linux](https://arc
 
 You can find general information about me and my work on [my website](https://antiz.fr), on which I also publish some [blog posts](https://antiz.fr/blog/) when I feel like it.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antiz96&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Antiz96&count_private=true&show_icons=true&theme=tokyonight)
